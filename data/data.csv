@@ -1,0 +1,53 @@
+stateName,stateAbbv,carPooled,driveDrunk
+Alabama,AL,8.6,3.4
+Alaska,AK,12,3
+Arizona,AZ,10.4,3.3
+Arkansas,AR,10.9,3.6
+California,CA,10.5,3.7
+Colorado,CO,9.6,3
+Connecticut,CT,8.1,3.2
+Delaware,DE,7.6,3.2
+District of Columbia,DC,5.6,2.9
+Florida,FL,9.1,3.2
+Georgia,GA,10.1,1.6
+Hawaii,HI,13.5,4.1
+Idaho,ID,9.8,3.4
+Illinois,IL,8,3.3
+Indiana,IN,9,3.4
+Iowa,IA,8.6,4.8
+Kansas,KS,9.5,2.7
+Kentucky,KY,10,3.7
+Louisiana,LA,9.8,4.4
+Maine,ME,10.7,2.9
+Maryland,MD,9.3,3.6
+Massachusetts,MA,7.4,3.2
+Michigan,MI,8.9,3.9
+Minnesota,MN,8.8,3.1
+Mississippi,MS,8.7,4.2
+Missouri,MO,8.9,2.9
+Montana,MT,10.4,4.1
+Nebraska,NE,9.5,4.3
+Nevada,NV,10.4,4.3
+New Hampshire,NH,7.8,2.2
+New Jersey,NJ,7.9,2.6
+New Mexico,NM,9.5,2.3
+New York,NY,6.5,1.8
+North Carolina,NC,9.7,2.5
+North Dakota,ND,8.3,5.6
+Ohio,OH,7.8,3.8
+Oklahoma,OK,10.5,2.1
+Oregon,OR,10.8,2.7
+Pennsylvania,PA,8.5,3.3
+Rhode Island,RI,7.4,4
+South Carolina,SC,9.3,3.4
+South Dakota,SD,9.2,3.9
+Tennessee,TN,9.2,3.5
+Texas,TX,10.6,3.8
+Utah,UT,11.8,2.7
+Vermont,VT,8.7,2.8
+Virginia,VA,9.3,2.9
+Washington,WA,10.1,3.2
+West Virginia,WV,9.7,1.4
+Wisconsin,WI,8.2,3.6
+Wyoming,WY,11,2.8
+Puerto Rico,PR,9.1,7.3
